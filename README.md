@@ -14,7 +14,7 @@ Projeto de atividade final do nível avançado [ABAP 4 Girls](https://abapforgir
     - Definição de campos chave e estrutura de dados.
 2. Programação ABAP
     - Desenvolvimento de relatórios e programas em ABAP.
-    - Utilização de funções de leitura e manipulação de dados de tabelas SAP (e.g., MARA, MAKT).
+    - Utilização de funções de leitura e manipulação de dados de tabelas SAP (MARA, MAKT).
     - Implementação de lógica de validação de dados e tratamento de erros.
     - Uso de Call Transaction para atualização de registros via transação MM02.
 3. Manipulação de Arquivos Excel
