@@ -24,7 +24,7 @@ Projeto de atividade final do nível avançado [ABAP 4 Girls](https://abapforgir
     - Implementação de registro de logs de operações (criação/modificação de materiais).
     - Criação de relatórios de logs e exibição em ALV (ABAP List Viewer).
 5. Interação com Usuário
-    - Desenvolvimento de interfaces de usuário com campos de seleção (select-options).
+    - Desenvolvimento de interfaces de usuário com campos de seleção.
     - Implementação de mensagens de status e feedback de execução.
 6. Utilização de ALV OO (Object-Oriented)
     - Exibição de relatórios utilizando ALV OO para melhor apresentação e interação com dados.
