@@ -39,6 +39,6 @@ START-OF-SELECTION.
         CALL METHOD lo_table->display.
 
       CATCH cx_salv_msg.
-        MESSAGE i003.
+        MESSAGE i003. "Erro ao exibir relatório.
     ENDTRY.
   ENDIF.
