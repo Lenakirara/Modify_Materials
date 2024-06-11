@@ -3,7 +3,8 @@ Projeto de atividade final do nível avançado [ABAP 4 Girls](https://abapforgir
 
 <div align="center">
   
-![image](https://github.com/Lenakirara/Modify_Materials/assets/45247383/feec099e-52d7-435c-a6ba-c43a15461ff4)
+![image](https://github.com/Lenakirara/Modify_Materials/assets/45247383/8ade5ef7-fb8e-467f-8bbc-2d66d89e1cc9)
+
 
 </div>
 
