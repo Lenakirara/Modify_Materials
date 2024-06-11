@@ -1,5 +1,5 @@
 # Boas vindas ao repositório de Modificação de Materiais
-Projeto de atividade final do nível avançado [ABAP 4 Girls](https://abapforgirls.tech/)
+Projeto de atividade final do nível avançado do curso [ABAP 4 Girls](https://abapforgirls.tech/)
 
 <div align="center">
   
