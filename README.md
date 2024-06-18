@@ -22,7 +22,7 @@ Projeto de atividade final do nível avançado do curso [ABAP 4 Girls](https://a
     - Exportação de dados para arquivos Excel.
 4. Gerenciamento de Logs
     - Implementação de registro de logs de operações (criação/modificação de materiais).
-    - Criação de relatórios de logs e exibição em ALV (ABAP List Viewer).
+    - Criação de relatórios de logs e exibição em ALV.
 5. Interação com Usuário
     - Desenvolvimento de interfaces de usuário com campos de seleção.
     - Implementação de mensagens de status e feedback de execução.
